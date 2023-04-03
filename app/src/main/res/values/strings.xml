@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AppReciclajee</string>
+
+    <string name="textvuew_reciclaya">Recicla Ya</string>
+    <string name="app_ambiental">App Ambiental!</string>
+    <string name="recicla_ya">Recicla Ya</string>
+
+    <string name="gris">Se trata de un contenedor de restos, aquellas cosas que no se pueden reciclar y con las que no puedes hacer compost. Aquí se deben de tirar cosas como pañales, compresas, los cepillos de dientes o las cápsulas de café. Aunque cabe aclarar en este punto que en algunos puntos de España se usa el contenedor gris como el orgánico y de restos porque no disponen de un contenedor marrón.</string>
+    <string name="amarillo">En este contenedor van los envases de plástico a rasgos generales, pero hay más. Por ejemplo, cuando vamos a tirar un brik de leche, muchas personas piensan erróneamente que tienen que tirarlo al contenedor del cartón, pero lo cierto es que hay que depositarlo en el amarillo porque no solo está compuesto por cartón, sino que también lleva plástico y aluminio.</string>
+    <string name="verde">En los contenedores de reciclaje verdes se almacenan los envases de vidrio,
+        como aquellos que contienen perfumes o mermeladas.
+        En este caso particular, los residuos impropios son bombillas, espejos, ceniceros, vasos y demás elementos de la vajilla.</string>
+    <string name="metodos">Metodos</string>
+    <string name="tipos">Tipos</string>
+    <string name="contenedor_rojo">Contenedor Rojo</string>
+    <string name="otro">OTRO</string>
+    <string name="men">Menú</string>
+    <string name="men_reciclaje">Menú Reciclaje</string>
+    <string name="tipos_contenedores">Tipos Contenedores</string>
+    <string name="contenedor_verde">Contenedor verde</string>
+    <string name="contenedor_amarillo">Contenedor Amarillo</string>
+    <string name="contenedor_gris">Contenedor Gris</string>
+    <string name="atras">Atras</string>
+
+</resources>
